@@ -93,6 +93,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
+<img width="441" height="186" alt="image" src="https://github.com/user-attachments/assets/8d1a19af-3520-4bfa-bb72-ceeb185b8094" />
 
 
 
@@ -104,6 +105,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
+<img width="458" height="77" alt="image" src="https://github.com/user-attachments/assets/d4c6bc17-bf1b-4044-a5c2-22befc37d91b" />
 
 
 
@@ -116,6 +118,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+<img width="458" height="77" alt="image" src="https://github.com/user-attachments/assets/110c828f-2b56-4f7e-933c-c1932842e2a1" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -127,6 +130,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
+<img width="452" height="172" alt="image" src="https://github.com/user-attachments/assets/85e7ca12-b771-4529-a259-46ffbb8f9b3c" />
 
 
 # RESULT:
