@@ -23,24 +23,31 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+<img width="687" height="121" alt="Screenshot 2026-05-26 114401" src="https://github.com/user-attachments/assets/b1ceccb4-4494-452e-9309-876ef7afc75d" />
+
 
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
+<img width="835" height="53" alt="Screenshot 2026-05-26 114408" src="https://github.com/user-attachments/assets/87791dc1-c841-4cd7-91ca-b181eb24baec" />
+
 
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
+<img width="646" height="110" alt="Screenshot 2026-05-26 114519" src="https://github.com/user-attachments/assets/c518f34b-444c-4a0f-bdad-30ae205edb58" />
 
 ## COMMAND AND OUTPUT
 
 
 Create the file hello.txt using echo and redirection
+<img width="832" height="118" alt="Screenshot 2026-05-26 114456" src="https://github.com/user-attachments/assets/fe6944bb-24f5-48e1-a0e7-a4c2df96dc61" />
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
+<img width="699" height="66" alt="Screenshot 2026-05-26 114503" src="https://github.com/user-attachments/assets/accc152c-56e4-4631-bed6-7940160b7afd" />
 
 ## COMMAND AND OUTPUT
 
@@ -53,11 +60,13 @@ List out the file hello1.txt in the current directory
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
+<img width="780" height="668" alt="Screenshot 2026-05-26 114510" src="https://github.com/user-attachments/assets/2c5a3137-15cc-46a0-a1f2-377b6c5da279" />
 
 ## COMMAND AND OUTPUT
 
 
 Compare the file hello.txt and rose.txt
+<img width="646" height="110" alt="Screenshot 2026-05-26 114519" src="https://github.com/user-attachments/assets/87c3be47-40b2-4f4d-9ebd-a2b09266f9f0" />
 
 ## COMMAND AND OUTPUT
 
@@ -70,6 +79,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 
+<img width="653" height="176" alt="image" src="https://github.com/user-attachments/assets/b683be88-51f2-4208-bec9-e0f5989df8ac" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
